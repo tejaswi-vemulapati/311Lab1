@@ -10,6 +10,5 @@
  void cube_primes(int array[], int length);
  void double_armstrongs(int array[], int length) ;
  void negate_happy(int array[], int length);
- int sqrt(int a);
 
 #endif
